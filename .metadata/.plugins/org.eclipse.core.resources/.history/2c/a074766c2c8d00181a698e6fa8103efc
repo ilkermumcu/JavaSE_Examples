@@ -1,0 +1,20 @@
+
+public class Monitor {
+	
+	private String model;
+	
+	private String producer;
+	
+	private String width;
+	
+	private Resolution resolution;
+
+	public Monitor(String model, String producer, String width, Resolution resolution) {
+		
+		this.model = model;
+		this.producer = producer;
+		this.width = width;
+		this.resolution = resolution;
+	}
+
+}

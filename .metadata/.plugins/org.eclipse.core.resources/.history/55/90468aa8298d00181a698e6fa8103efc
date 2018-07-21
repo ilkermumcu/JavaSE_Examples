@@ -1,0 +1,22 @@
+
+public class Mainboard {
+	
+	private String model;
+	
+	private String producer;
+	
+	private String numberOfSlots; 
+	
+	private String operatingSystem;
+
+	public Mainboard(String model, String producer, String numberOfSlots, String operatingSystem) {
+		
+		this.model = model;
+		this.producer = producer;
+		this.numberOfSlots = numberOfSlots;
+		this.operatingSystem = operatingSystem;
+	}
+	
+	
+
+}

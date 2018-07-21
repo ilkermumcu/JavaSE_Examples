@@ -1,0 +1,9 @@
+
+public class Test {
+	public static void main(String[] args) {
+		Resolution resolution = new Resolution(1920, 1080);
+		Monitor monitor = new Monitor("VS1984", "ASUS", "21", resolution);
+		Mainboard mainboard = new Mainboard("T-250", "Asus", 10, "Win10");
+	}
+
+}

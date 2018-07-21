@@ -1,0 +1,17 @@
+
+public class Cabinet {
+
+	private String model;
+
+	private String producer;
+
+	private String material;
+
+	public Cabinet(String model, String producer, String material) {
+
+		this.model = model;
+		this.producer = producer;
+		this.material = material;
+	}
+
+}

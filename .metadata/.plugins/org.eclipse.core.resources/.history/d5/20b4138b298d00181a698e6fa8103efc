@@ -1,0 +1,13 @@
+
+public class Mainboard {
+	
+	private String model;
+	
+	private String producer;
+	
+	private String numberOfSlots; 
+	
+	private String operatingSystem;
+	
+
+}
